@@ -1,1 +1,2 @@
-# Data-Anlysis-Dashboards
+IMDb Movies Data Analysis Dashboard is an interactive Power BI tool that provides insightful visualizations of movie data from IMDb. It helps users explore trends in genres, ratings, box office revenue, vote counts, and more. With dynamic filters and charts, users can easily analyze the performance of movies across different years, countries, and categories to uncover patterns in the film industry.
+
